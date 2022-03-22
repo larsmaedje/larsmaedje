@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @FlynnIsAlive.
-- 🌱 I’m currently learning PHP, Javascript, MYSQL and Python.
-
-<!---
-He´s alive.
---->
+Am I still to create the perfect System?
